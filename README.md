@@ -57,7 +57,6 @@ https://github.com/alx/api-call-matrix/blob/main/flask_server.py
 
 - python-telegram-bot
 - aiohttp
-- anthropic
 - openai
 - sqlite3
 
