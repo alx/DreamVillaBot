@@ -1,0 +1,13 @@
+{
+    "PERPLEXITY_API_KEY": "pplx-01234567889",
+    "TELEGRAM_BOT_TOKEN": "12345678::AA_BBB_CCC_DDD",
+    "api_url": "http://localhost:5000",
+    "api_methods": {
+        "gen": "/gen",
+        "prompts": "/prompts"
+    },
+    "messages": {
+        "welcome": "Welcome to the Villa Dream Bot! 👋\n\nSay /villa to start!",
+        "info": ""
+    }
+}
